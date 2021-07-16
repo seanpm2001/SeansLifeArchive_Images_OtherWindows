@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="1400.09"
+   height="615.35999"
+   id="svg2">
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-437.00214)"
+     id="layer1">
+    <rect
+       width="161.88266"
+       height="102.67152"
+       x="3.4258895"
+       y="441.69797"
+       id="rect3026"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.93599999;stroke-miterlimit:3.98887324;stroke-opacity:1;stroke-dasharray:none" />
+    <text
+       x="43.386093"
+       y="497.40897"
+       id="text3796"
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans;-inkscape-font-specification:Nimbus Sans"><tspan
+         x="43.386093"
+         y="497.40897"
+         id="tspan3798"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Nimbus Sans;-inkscape-font-specification:Nimbus Sans">DOS Application</tspan></text>
+    <rect
+       width="161.88266"
+       height="102.67152"
+       x="183.53859"
+       y="441.98965"
+       id="rect3026-9"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.93599999;stroke-miterlimit:3.98887324;stroke-opacity:1;stroke-dasharray:none" />
+    <text
+       x="219.25615"
+       y="498.0542"
+       id="text3796-8"
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans;-inkscape-font-specification:Nimbus Sans"><tspan
+         x="219.25615"
+         y="498.0542"
+         id="tspan3798-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Nimbus Sans;-inkscape-font-specification:Nimbus Sans">Win32 Application</tspan></text>
+    <rect
+       width="161.88266"
+       height="102.67152"
+       x="363.22638"
+       y="441.64426"
+       id="rect3026-1"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.93599999;stroke-miterlimit:3.98887324;stroke-opacity:1;stroke-dasharray:none" />
+    <text
+       x="398.59039"
+       y="497.00171"
+       id="text3796-2"
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans;-inkscape-font-specification:Nimbus Sans"><tspan
+         x="398.59039"
+         y="497.00171"
+         id="tspan3798-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Nimbus Sans;-inkscape-font-specification:Nimbus Sans">Win32 Application</tspan></text>
+    <rect
+       width="141.46503"
+       height="81.378853"
+       x="562.57733"
+       y="442.573"
+       id="rect3862"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.93599999;stroke-miterlimit:3.98887324;stroke-opacity:1;stroke-dasharray:none" />
+    <rect
+       width="141.07448"
+       height="82.499695"
+       x="542.58185"
+       y="463.77521"
+       id="rect3856"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.93599999;stroke-miterlimit:3.98887324;stroke-opacity:1;stroke-dasharray:none" />
+    <text
+       x="566.64319"
+       y="509.95117"
+       id="text3858"
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans;-inkscape-font-specification:Nimbus Sans"><tspan
+         x="566.64319"
+         y="509.95117"
+         id="tspan3860">Win16 Application</tspan></text>
+    <g
+       transform="translate(844.58233,86.260525)"
+       id="g3899">
+      <path
+         d="m 521.3981,592.83887 a 226.46167,25.574905 0 1 1 -0.0287,-0.40727"
+         transform="translate(-1.7500828,1.7500829)"
+         id="path3889"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.60000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         width="461.96655"
+         height="95.699646"
+         x="59.26511"
+         y="499.6142"
+         id="rect3887"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.60568988;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         d="m 522.10805,502.25281 a 230.71925,23.917799 0 1 1 -0.0293,-0.38088"
+         transform="matrix(0.98421898,0,0,1,5.3225921,-2.9168048)"
+         id="path3870"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.93599999;stroke-miterlimit:3.98887324;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         d="m 519.77461,499.336 0,96.83792 z"
+         id="path3895"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         d="m 64.349764,497.96422 2.474991,99.82463 z"
+         id="path3897"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <text
+       x="1119.3064"
+       y="645.27454"
+       id="text3906"
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans;-inkscape-font-specification:Nimbus Sans"><tspan
+         x="1119.3064"
+         y="645.27454"
+         id="tspan3908">Registry</tspan></text>
+    <rect
+       width="160.8744"
+       height="61.462273"
+       x="2.6728272"
+       y="563.18732"
+       id="rect3930"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.60000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <text
+       x="60.010231"
+       y="599.48718"
+       id="text3932"
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans;-inkscape-font-specification:Nimbus Sans"><tspan
+         x="60.010231"
+         y="599.48718"
+         id="tspan3934">MS-DOS</tspan></text>
+    <path
+       d="m 183.9761,564.20376 519.7746,0 z"
+       id="path3936"
+       style="fill:none;stroke:#000000;stroke-width:1.65833735px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       width="160.42426"
+       height="40.835266"
+       x="182.8093"
+       y="583.16296"
+       id="rect3938"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.60000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <text
+       x="247.56247"
+       y="608.2475"
+       id="text3940"
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans;-inkscape-font-specification:Nimbus Sans"><tspan
+         x="247.56247"
+         y="608.2475"
+         id="tspan3942">Kernel</tspan></text>
+    <rect
+       width="160.04941"
+       height="40.42485"
+       x="363.6091"
+       y="583.81226"
+       id="rect3944"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.60000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <text
+       x="433.32126"
+       y="608.14966"
+       id="text3946"
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans;-inkscape-font-specification:Nimbus Sans"><tspan
+         x="433.32126"
+         y="608.14966"
+         id="tspan3948">User</tspan></text>
+    <rect
+       width="161.28691"
+       height="41.249847"
+       x="543.0459"
+       y="583.39972"
+       id="rect3966"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.60000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <text
+       x="612.3457"
+       y="608.56213"
+       id="text3968"
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans;-inkscape-font-specification:Nimbus Sans"><tspan
+         x="612.3457"
+         y="608.56213"
+         id="tspan3970">GDI</tspan></text>
+    <rect
+       width="140.71425"
+       height="41.719299"
+       x="23.159887"
+       y="643.17664"
+       id="rect3978"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.60000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <rect
+       width="140.71425"
+       height="41.012192"
+       x="3.0072999"
+       y="663.3291"
+       id="rect3972"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.60000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <text
+       x="54.626198"
+       y="688.78503"
+       id="text3974"
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans;-inkscape-font-specification:Nimbus Sans"><tspan
+         x="54.626198"
+         y="688.78503"
+         id="tspan3976">DOS VM</tspan></text>
+    <rect
+       width="700.03571"
+       height="60.104076"
+       x="183.31955"
+       y="643.88373"
+       id="rect3980"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.60000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <text
+       x="509.29587"
+       y="679.23901"
+       id="text3982"
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans;-inkscape-font-specification:Nimbus Sans"><tspan
+         x="509.29587"
+         y="679.23901"
+         id="tspan3984">System VM</tspan></text>
+    <rect
+       width="381.5"
+       height="81"
+       x="3.2572999"
+       y="723.27271"
+       id="rect3986"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.60000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <text
+       x="130.75729"
+       y="767.27271"
+       id="text3988"
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans;-inkscape-font-specification:Nimbus Sans"><tspan
+         x="130.75729"
+         y="767.27271"
+         id="tspan3990">Virtual Machine Manager</tspan></text>
+    <rect
+       width="539.52246"
+       height="82.024384"
+       x="403.93686"
+       y="723.07971"
+       id="rect3992"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.60000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <text
+       x="587.78467"
+       y="770.45581"
+       id="text3994"
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans;-inkscape-font-specification:Nimbus Sans"><tspan
+         x="587.78467"
+         y="770.45581"
+         id="tspan3996">Installable Filesystem Manager</tspan></text>
+    <rect
+       width="201"
+       height="42"
+       x="402.75729"
+       y="822.77271"
+       id="rect3998"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.60000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <text
+       x="491.25729"
+       y="848.27271"
+       id="text4000"
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans;-inkscape-font-specification:Nimbus Sans"><tspan
+         x="491.25729"
+         y="848.27271"
+         id="tspan4002">VFAT</tspan></text>
+    <rect
+       width="180.5"
+       height="40"
+       x="623.25732"
+       y="824.27271"
+       id="rect4004"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.60000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <text
+       x="700.75732"
+       y="847.77271"
+       id="text4006"
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans;-inkscape-font-specification:Nimbus Sans"><tspan
+         x="700.75732"
+         y="847.77271"
+         id="tspan4008">CDFS</tspan></text>
+    <rect
+       width="398.85486"
+       height="41.5"
+       x="403.75729"
+       y="883.27271"
+       id="rect4010"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.6007123;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <text
+       x="551.75732"
+       y="907.77271"
+       id="text4012"
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans;-inkscape-font-specification:Nimbus Sans"><tspan
+         x="551.75732"
+         y="907.77271"
+         id="tspan4014">Input/Output Supervisor</tspan></text>
+    <rect
+       width="120.20815"
+       height="100.05561"
+       x="403.58334"
+       y="943.69702"
+       id="rect4016"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.60000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <text
+       x="437.87802"
+       y="996.02283"
+       id="text4018"
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans;-inkscape-font-specification:Nimbus Sans"><tspan
+         x="437.87802"
+         y="996.02283"
+         id="tspan4020">Port Driver</tspan></text>
+    <rect
+       width="120.56171"
+       height="39.59798"
+       x="543.23694"
+       y="944.05054"
+       id="rect4022"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.60000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <text
+       x="572.93542"
+       y="967.38513"
+       id="text4024"
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans;-inkscape-font-specification:Nimbus Sans"><tspan
+         x="572.93542"
+         y="967.38513"
+         id="tspan4026">SCSI Layer</tspan></text>
+    <rect
+       width="120.20815"
+       height="41.012192"
+       x="543.59045"
+       y="1003.801"
+       id="rect4028"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.60000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <text
+       x="565.86438"
+       y="1027.489"
+       id="text4030"
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans;-inkscape-font-specification:Nimbus Sans"><tspan
+         x="565.86438"
+         y="1027.489"
+         id="tspan4032">Miniport Driver</tspan></text>
+    <rect
+       width="119.8546"
+       height="101.11627"
+       x="683.59766"
+       y="943.34338"
+       id="rect4034"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.60000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <text
+       x="717.53882"
+       y="988.24475"
+       id="text4036"
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans;-inkscape-font-specification:Nimbus Sans"><tspan
+         x="717.53882"
+         y="988.24475"
+         id="tspan4038">Real Mode</tspan><tspan
+         x="717.53882"
+         y="1003.2448"
+         id="tspan4040">  Mapper</tspan></text>
+    <rect
+       width="100.5"
+       height="202.5"
+       x="843.25732"
+       y="822.27271"
+       id="rect4054"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.60000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <rect
+       width="100.5"
+       height="200.5"
+       x="823.75732"
+       y="844.27271"
+       id="rect4042"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.60000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <text
+       x="844.75732"
+       y="930.27271"
+       id="text4044"
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans;-inkscape-font-specification:Nimbus Sans"><tspan
+         x="844.75732"
+         y="930.27271"
+         id="tspan4048">  Network </tspan><tspan
+         x="844.75732"
+         y="945.27271"
+         id="tspan4052">Redirector</tspan></text>
+    <rect
+       width="160.51324"
+       height="60.104065"
+       x="723.54919"
+       y="563.62714"
+       id="rect4056"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.60000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <text
+       x="782.94617"
+       y="597.92175"
+       id="text4058"
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans;-inkscape-font-specification:Nimbus Sans"><tspan
+         x="782.94617"
+         y="597.92175"
+         id="tspan4060">MS-DOS</tspan></text>
+    <rect
+       width="160.51324"
+       height="41.719299"
+       x="723.19568"
+       y="502.81592"
+       id="rect4062"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.60000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <text
+       x="753.95471"
+       y="527.91821"
+       id="text4064"
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans;-inkscape-font-specification:Nimbus Sans"><tspan
+         x="753.95471"
+         y="527.91821"
+         id="tspan4066">DOS Device Driver</tspan></text>
+    <rect
+       width="120.75"
+       height="38.5"
+       x="963.50732"
+       y="823.77271"
+       id="rect4068"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.60000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <text
+       x="994.00732"
+       y="847.77271"
+       id="text4070"
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans;-inkscape-font-specification:Nimbus Sans"><tspan
+         x="994.00732"
+         y="847.77271"
+         id="tspan4072">Enumerator</tspan></text>
+    <rect
+       width="400.5"
+       height="80.5"
+       x="963.25732"
+       y="723.27271"
+       id="rect4074"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.60000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <text
+       x="1110.2573"
+       y="767.27271"
+       id="text4076"
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans;-inkscape-font-specification:Nimbus Sans"><tspan
+         x="1110.2573"
+         y="767.27271"
+         id="tspan4078">Configuration Manager</tspan></text>
+    <rect
+       width="101.11627"
+       height="42.779961"
+       x="982.70386"
+       y="882.88586"
+       id="rect4086"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.60000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <rect
+       width="100.05561"
+       height="38.537319"
+       x="963.25842"
+       y="903.39185"
+       id="rect4080"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.60000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <text
+       x="985.88574"
+       y="926.72644"
+       id="text4082"
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans;-inkscape-font-specification:Nimbus Sans"><tspan
+         x="985.88574"
+         y="926.72644"
+         id="tspan4084">Bus Driver</tspan></text>
+    <rect
+       width="119.5"
+       height="38"
+       x="1103.7573"
+       y="823.77271"
+       id="rect4088"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.60000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <text
+       x="1140.0502"
+       y="846.77271"
+       id="text4090"
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans;-inkscape-font-specification:Nimbus Sans"><tspan
+         x="1140.0502"
+         y="846.77271"
+         id="tspan4092">Arbitrator</tspan></text>
+    <rect
+       width="100"
+       height="100.5"
+       x="1263.2573"
+       y="823.77271"
+       id="rect4100"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.60000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <rect
+       width="103"
+       height="100.5"
+       x="1242.7573"
+       y="843.77271"
+       id="rect4094"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.60000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <text
+       x="1257.7573"
+       y="897.27271"
+       id="text4096"
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans;-inkscape-font-specification:Nimbus Sans"><tspan
+         x="1257.7573"
+         y="897.27271"
+         id="tspan4098">Device Driver</tspan></text>
+    <path
+       d="m 803.7573,562.7727 0,-6 z"
+       id="path4102"
+       style="fill:#7e7e7e;fill-opacity:1;stroke:#7e7e7e;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       d="m 797.7573,558.03213 6.5,-12.50943 6.5,13 -5.5,-1.96226 -2,0.24528 z"
+       id="path4104"
+       style="fill:#7e7e7e;fill-opacity:1;stroke:#7e7e7e;stroke-width:0.99052113px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       d="m 796.0073,642.77272 3.25,-18.25002 z"
+       id="path4106"
+       style="fill:#7e7e7e;fill-opacity:1;stroke:#7e7e7e;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       d="m 778.0073,722.27272 4.75,-17.5 z"
+       id="path4108"
+       style="fill:#7e7e7e;fill-opacity:1;stroke:#7e7e7e;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       d="m 752.7573,823.67992 4.25,-18.1572 z"
+       id="path4110"
+       style="fill:#7e7e7e;fill-opacity:1;stroke:#7e7e7e;stroke-width:1.02595961px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       d="m 747.7573,865.02272 -2.25,17.5 z"
+       id="path4112"
+       style="fill:#7e7e7e;fill-opacity:1;stroke:#7e7e7e;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       d="m 744.1011,925.55832 0,6.2373 z"
+       id="path4114"
+       style="fill:#7e7e7e;fill-opacity:1;stroke:#7e7e7e;stroke-width:0.97958344px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       d="m 738.0073,929.52272 6,12.3358 6.5,-12.103 -5.25,2.3275 -2.25,0.2327 z"
+       id="path4116"
+       style="fill:#7e7e7e;fill-opacity:1;stroke:#7e7e7e;stroke-width:0.96488482px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </g>
+</svg>
